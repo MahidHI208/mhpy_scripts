@@ -7,7 +7,7 @@ Simple Python scripts for learning and practice.
 
 ---
 
-## 📂 اسکریپت‌ها
+## سکریپت‌ها
 
 ### ۱. نمایش آی‌پی (`show_ip.py`)
 این اسکریپت، آی‌پی محلی و عمومی سیستم شما رو نمایش می‌ده.
@@ -32,4 +32,4 @@ pip install requests
 
 https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
-text
+
