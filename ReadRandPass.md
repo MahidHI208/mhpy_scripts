@@ -11,4 +11,4 @@ Enter your Last name: Heydari
 your Password is MaHey50
 
 کتابخانه مورد نیاز 
-random
+pip install requests
