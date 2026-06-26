@@ -10,4 +10,3 @@ print(f"🏠 Local IP: {local_ip}")
 print(f"🌍 Public IP: {public_ip}")
 
 
-//Commit new file
