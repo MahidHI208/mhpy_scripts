@@ -1,5 +1,5 @@
 **Script to calculate whether a number is even or odd**
-*In this program, we check whether numbers are even or odd using randomly generated numbers/*
+*In this program, we check whether numbers are even or odd using randomly generated numbers*
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 *First, we call the random library and generate a random number in the range 1 to 99*
 
@@ -20,6 +20,6 @@ else :
 
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-***OUTPUT****
+***OUTPUT***
 
 51 odd
